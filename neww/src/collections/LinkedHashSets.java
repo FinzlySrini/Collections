@@ -1,5 +1,7 @@
 package collections;
 
+import java.util.LinkedHashSet;
+
 public class LinkedHashSets {
 	public static void main(String[] args) {
 		LinkedHashSet<Integer> lh =new LinkedHashSet<>();
